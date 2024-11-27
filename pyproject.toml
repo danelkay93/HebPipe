@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hebpipe"
-version = "0.1.0"
+version = "3.0.0.6"
 description = ""
 authors = ["Your Name <you@example.com>"]
 readme = "README.md"
